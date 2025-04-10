@@ -5,3 +5,4 @@ def fun(n):
 
 fun("one day inshallah")
 fun("new changes")
+fun("hehehehe")
